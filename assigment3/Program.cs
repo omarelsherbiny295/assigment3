@@ -14,7 +14,7 @@
 
             #endregion
 
- 
+
 
             #region question2
             //Book book = new Book();
@@ -28,6 +28,22 @@
 
             #endregion
 
+            #region question3
+            //try
+            //{
+            //    int x = 10;
+            //    int y = 0;
+            //    Console.WriteLine(x / y);
+            //}
+            //catch
+            //{
+            //    Console.WriteLine("can not divide by zero");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("done");
+            //}
+            #endregion
         }
     }
 }
