@@ -95,6 +95,10 @@
             //int copies2 = (int)obj;
             //Console.WriteLine(copies2);
             #endregion
+
+            #region question10
+            // can not answer
+            #endregion
         }
     }
 }
