@@ -78,6 +78,13 @@
             //    Console.WriteLine("invalid number");
             //}
             #endregion
+
+            #region question8
+            //int pages = 464;
+
+            //string text = pages.ToString();
+            //Console.WriteLine(text.GetType().Name);
+            #endregion
         }
     }
 }
