@@ -51,6 +51,13 @@
             //double dpages = Convert.ToDouble(pages);
             //Console.WriteLine(dpages);
             #endregion
+
+            #region question5
+            //double price = 49.99;
+            //int intprice = (int)price;
+
+            //Console.WriteLine(intprice);
+            #endregion
         }
     }
 }
