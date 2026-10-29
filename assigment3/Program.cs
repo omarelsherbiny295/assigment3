@@ -14,6 +14,20 @@
 
             #endregion
 
+ 
+
+            #region question2
+            //Book book = new Book();
+            //book.title = "programming";
+            //book.pages = 100;
+
+            //Console.WriteLine(book.ToString());
+            //Console.WriteLine(book.GetHashCode());
+            //Console.WriteLine(book.Equals(book));
+            //Console.WriteLine(book.GetType());
+
+            #endregion
+
         }
     }
 }
