@@ -99,6 +99,10 @@
             #region question10
             // can not answer
             #endregion
+            #region question11
+            //string? reviewer = null;
+            //Console.WriteLine(reviewer == null);
+            #endregion
         }
     }
 }
